@@ -11,11 +11,11 @@
 This is my personal configuration file for GNU Emacs.
 
 You can find the latest version of this configuration at
-https://gitlab.com/robertstojs/emacs-config.git
+https://github.com/rvstjs/emacs-config.git
 
 #+BEGIN_SRC emacs-lisp
   (setq user-full-name "Robert Stojs")
-  (setq user-mail-address "robert.stojs@gmail.com")
+  (setq user-mail-address "robert.stojs@mailbox.org")
 #+END_SRC
 
 * A secure Emacs environment
