@@ -889,7 +889,7 @@ Inspired by [[https://ekaschalk.github.io/post/outline-ivy/][this]] blog post on
   (use-package outshine
     :ensure t
     :config
-    (add-hook 'outline-minor-mode-hook 'outshine-hook-function)
+    (add-hook 'outline-minor-mode-hook 'outshine-mode)
     (add-hook 'prog-mode-hook 'outline-minor-mode)
   )
 #+end_src
